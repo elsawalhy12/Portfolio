@@ -1,0 +1,36 @@
+"Reporting starts","Reporting ends","Campaign name","Campaign delivery","Attribution setting",Reach,"CPM (cost per 1,000 impressions) (EGP)",Impressions,Frequency,"Ad set budget","Ad set budget type",Results,"Result indicator","Cost per results","Amount spent (EGP)","CTR (link click-through rate)","Video plays","3-second video plays","Video plays at 25%","Video plays at 50%","Video plays at 75%","Video plays at 100%","CPC (cost per link click) (EGP)","Messaging contacts","Post engagements"
+2025-07-01,2025-11-30,"اوتولاب | msg 2 | 5-25",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"Autolab  | HIRIN | ENG",inactive,"7-day click or 1-day view",23410,10.794575,52871,2.258479,"Using ad set budget",0,857,actions:post_engagement,0.66595099,570.72,1.114032,,,,,,,0.968964,168,857
+2025-07-01,2025-11-30,"Autolab  | TSH | ENG",inactive,"7-day click or 1-day view",5503,27.781824,6316,1.147738,"Using ad set budget",0,229,actions:post_engagement,0.76624454,175.47,0.649145,,,,,,,4.279756,2,229
+2025-07-01,2025-11-30,"Autolab | MSG | 15 - 8",inactive,"7-day click or 1-day view",6120,37.242888,8683,1.418791,"Using ad set budget",0,21,actions:onsite_conversion.messaging_conversation_started_7d,15.39904762,323.38,0.667972,,,,,,,5.575517,21,74
+2025-07-01,2025-11-30,"Autolab | ENG | 15 - 8",inactive,"7-day click or 1-day view",54201,11.561937,59932,1.105736,"Using ad set budget",0,1083,actions:post_engagement,0.63982456,692.93,1.20303,,,,,,,0.961068,89,1083
+2025-07-01,2025-11-30,"Autolab | Reach | 17 - 8",inactive,"7-day click or 1-day view",447093,3.231838,750409,1.678418,"Using ad set budget",0,447093,reach,5.42437479,2425.2,0.078357,,,,,,,4.12449,4,1063
+2025-07-01,2025-11-30,"Autolab | ENG | 17 - 8 Hiring",inactive,"7-day click or 1-day view",35180,14.719954,53759,1.528113,"Using ad set budget",0,878,actions:post_engagement,0.90128702,791.33,1.264904,,,,,,,1.163721,165,878
+2025-07-01,2025-11-30,"Autolab | msg | 17-8",inactive,"7-day click or 1-day view",16644,52.974711,29697,1.784247,"Using ad set budget",0,84,actions:onsite_conversion.messaging_conversation_started_7d,18.72845238,1573.19,0.835101,,,,,,,6.343508,83,304
+2025-07-01,2025-11-30,"Autolab | msg",inactive,"7-day click or 1-day view",42198,39.66211,55965,1.326248,500,Daily,121,actions:onsite_conversion.messaging_conversation_started_7d,18.34454545,2219.69,0.754043,,,,,,,5.259929,122,520
+2025-07-01,2025-11-30,"Autolab | ENG | 8 - 10",inactive,"7-day click or 1-day view",98627,17.300829,198046,2.00803,"Using ad set budget",0,3889,actions:post_engagement,0.88103883,3426.36,1.336053,,,,,,,1.294921,25,3889
+2025-07-01,2025-11-30,"Autolab | MSG | 8 - 10",inactive,"7-day click or 1-day view",41606,36.179328,89657,2.154906,"Using ad set budget",0,153,actions:onsite_conversion.messaging_conversation_started_7d,21.20084967,3243.73,0.666986,,,,,,,5.424298,150,750
+2025-07-01,2025-11-30,"Autolab | MSG | 13- 10",inactive,"7-day click or 1-day view",19204,32.178165,28221,1.469538,"Using ad set budget",0,43,actions:onsite_conversion.messaging_conversation_started_7d,21.11860465,908.1,0.499628,,,,,,,6.440426,43,172
+2025-07-01,2025-11-30,"Autolab | MSG | 15 - 10",inactive,"7-day click or 1-day view",25579,32.590491,40363,1.577974,"Using ad set budget",0,54,actions:onsite_conversion.messaging_conversation_started_7d,24.36018519,1315.45,0.574784,,,,,,,5.670043,53,278
+2025-07-01,2025-11-30,"Autolab | msg | 28 - 10",inactive,"7-day click or 1-day view",45,98.703704,54,1.2,"Using ad set budget",0,,,,5.33,,,,,,,,,,1
+2025-07-01,2025-11-30,"Autolab | msg | 28 - 10 – Copy",inactive,"7-day click or 1-day view",11388,36.967348,16385,1.438795,"Using ad set budget",0,25,actions:onsite_conversion.messaging_conversation_started_7d,24.2284,605.71,0.781202,,,,,,,4.732109,25,153
+2025-07-01,2025-11-30,"AUTOLAB | MSG | 29 - 10",inactive,"7-day click or 1-day view",13853,47.647091,18407,1.328737,1000,Daily,32,actions:onsite_conversion.messaging_conversation_started_7d,27.4075,877.04,0.657359,,,,,,,7.248264,32,161
+2025-07-01,2025-11-30,"Autolab | msg | 30 - 10",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"Autolab | msg | 30 - 10 - Copy",inactive,"7-day click or 1-day view",19919,25.934275,26748,1.342839,"Using ad set budget",0,23,actions:onsite_conversion.messaging_conversation_started_7d,30.16043478,693.69,0.500972,,,,,,,5.176791,22,170
+2025-07-01,2025-11-30,"Autolab/Messg /1-11  Advg +",inactive,"7-day click or 1-day view",22170,37.856681,38683,1.744835,"Using ad set budget",0,65,actions:onsite_conversion.messaging_conversation_started_7d,22.52938462,1464.41,0.842747,,,,,,,4.492055,66,380
+2025-07-01,2025-11-30,"Autolab/Messg /1-11  Advg + - Copy",inactive,"7-day click or 1-day view",690,36.389987,759,1.1,"Using ad set budget",0,2,actions:onsite_conversion.messaging_conversation_started_7d,13.81,27.62,0.658762,,,,,,,5.524,2,5
+2025-07-01,2025-11-30,"Autolab | msg | 9-11",inactive,"7-day click or 1-day view",40415,21.873344,67916,1.680465,"Using ad set budget",0,72,actions:onsite_conversion.messaging_conversation_started_7d,20.63263889,1485.55,0.669945,,,,,,,3.264945,72,557
+2025-07-01,2025-11-30,"Autolab | msg | 16-11",inactive,"7-day click or 1-day view",6070,33.292186,7615,1.25453,"Using ad set budget",0,6,actions:onsite_conversion.messaging_conversation_started_7d,42.25333333,253.52,0.709127,,,,,,,4.694815,6,64
+2025-07-01,2025-11-30,"Autolab | msg | 16-11 – Copy",inactive,"7-day click or 1-day view",17952,34.808862,33222,1.850602,"Using ad set budget",0,47,actions:onsite_conversion.messaging_conversation_started_7d,24.60468085,1156.42,0.529769,,,,,,,6.570568,46,247
+2025-07-01,2025-11-30,"Autolab | msg | 24-11",inactive,"7-day click or 1-day view",30629,34.597825,60148,1.96376,"Using ad set budget",0,124,actions:onsite_conversion.messaging_conversation_started_7d,16.78217742,2080.99,0.598524,,,,,,,5.780528,125,547
+2025-07-01,2025-11-30,"Autolab | msg | 16-11",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"‎Autolap 3 |ENG",inactive,-,0,0,0,0,200,Daily,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"‎Autolap 3 |Reach",inactive,-,0,0,0,0,150,Daily,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"‎Autolap 3 |ENG",inactive,-,0,0,0,0,120,Daily,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"‎Autolap 4 |ENG - 3-25",inactive,-,0,0,0,0,120,Daily,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"autolap hiring / 4-25",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"autolap msg | 5-25",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"autolap msg2 | 5-25",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"autolap hiring / 4-25 - Copy",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"مدير مناديب",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
+2025-07-01,2025-11-30,"autolab | 5-25 | msg",inactive,-,0,0,0,0,"Using ad set budget",0,,,,0,,,,,,,,,,
